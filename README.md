@@ -1,0 +1,4 @@
+FlyweightEditor
+===============
+
+Flyweight pattern implementation 
